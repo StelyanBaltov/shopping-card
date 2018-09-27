@@ -2,6 +2,6 @@ git clone
 
 npm install
 
-Basic  Inrementartor Functionalty / Shopping Card
+Basic Incrementation Functionalty / Shopping Card
 
 Using create-react-app
